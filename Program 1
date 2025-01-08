@@ -3,9 +3,9 @@
 void main() 
 {
 int a, b, s;
-printf("enter the value of a and b")! 
+printf("enter the value of a and b");
 scanf("%d%d", &a, &b);
 s=a+b;
-printf("the sum of the value a and b is", s) ;
-getch() ;
+printf("the sum of the value a and b is", s);
+getch();
 }
