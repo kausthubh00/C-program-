@@ -1,2 +1,3 @@
-# C-program-
-Feel free to fork, star, or submit pull requests to improve the project!
+# C programming Here i work on c language
+## functions
+## data types
