@@ -1,3 +1,3 @@
-# C programming Here i work on c language
+# C programming lab
 ## functions
 ## data types
